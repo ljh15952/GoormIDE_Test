@@ -7,6 +7,5 @@ int main(){
 	cout << "ASDASD" << endl;
 	cout << "HI PULL TEST" << endl;
 	cout << "HI!! im in army!!" << endl;
-	cout << "VScode Test??sadasdsa?????????!" << endl;
+	cout << "VScode Test??sadasdasdasdasdsa?????????!" << endl;
 	return 0;
-}
